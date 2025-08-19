@@ -10,9 +10,9 @@
 ### 👨🏻‍💻 About Me  
 
 💡 I’m an aspiring **Software Developer** with interests in **AI/ML**. Currently a student at **IIT Madras** and **Central University of Jammu**.  
-🎓 Pursuing **B.Tech in Computer Science & Engineering (2021–2026)**.  
+🎓 Pursuing **B.Tech in Computer Science & Engineering (2022–2026)** from along with **Data science (Expected 2026)**.  
 🌱 Learning more about **Artificial Intelligence** and **Computer Vision**.  
-✍️ In my free time, I enjoy **drawing and writing**.  
+✍️ In my free time, I enjoy **drawing and learning new languages**.  
 💬 Always open to discussions on tech, AI/ML, and software development.  
 ✉️ Reach me at **s153.taniya@gmail.com**.  
 📄 Check out my [LinkedIn](https://www.linkedin.com/in/taniyaaa/) for more details about my work and experience.  
