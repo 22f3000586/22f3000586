@@ -7,7 +7,6 @@
 
 ---
 
-![snake gif](https://github.com/22f3000586/22f3000586/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 👨🏻‍💻 About Me  
@@ -39,6 +38,9 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ---
+
+![snake gif](https://github.com/22f3000586/22f3000586/blob/output/github-contribution-grid-snake.svg)
+
 ### 📊 GitHub Stats  
 
 ![Taniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3000586&show_icons=true&theme=tokyonight)  
