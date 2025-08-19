@@ -7,6 +7,9 @@
 
 ---
 
+![snake gif](https://github.com/22f3000586/22f3000586/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 👨🏻‍💻 About Me  
 
 💡 I’m an aspiring **Software Developer** with interests in **AI/ML**. Currently a student at **IIT Madras** and **Central University of Jammu**.  
@@ -36,6 +39,14 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ---
+### 📊 GitHub Stats  
+
+![Taniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3000586&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3000586&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22f3000586&theme=tokyonight)
+
 
 ### 📫 Connect with Me  
 
