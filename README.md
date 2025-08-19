@@ -19,7 +19,7 @@
 💬 Always open to discussions on tech, AI/ML, and software development.  
 ✉️ Reach me at **s153.taniya@gmail.com**.  
 📄 Check out my [LinkedIn](https://www.linkedin.com/in/taniyaaa/) for more details about my work and experience.  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ---
