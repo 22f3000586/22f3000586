@@ -17,7 +17,6 @@
 - 📫 Reach me at **s153.taniya@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/taniyaaa/)
 
-<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
