@@ -60,7 +60,8 @@
 
 ### 🚀 Featured Projects  
 
-- [**AI Chatbot for Crop Diseases**](https://github.com/22f3000586/DRDO-Chatbot) – Built during DRDO internship for crop disease detection.  
+- [**AI Chatbot for Crop Diseases**](https://github.com/22f3000586/DRDO-Chatbot) – Built during DRDO internship for crop disease detection.
+- [**MedFreeCure - Web Application**](https://github.com/22f3000586/medfreecureweb) - A modern, responsive web application built for MedFreeCure 
 
 ---
 
